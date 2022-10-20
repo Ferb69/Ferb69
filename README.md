@@ -1,4 +1,4 @@
-[![MasterHead][4492124](https://user-images.githubusercontent.com/109457186/196895481-e1fb081e-8ec2-431f-b7f6-068163019e84.jpg)
+[![MasterHead](https://sweet-frost.hyperx.workers.dev/0:/4492124.jpg)](https://ferb69.io)
 <h1 align="center">Hi 👋, I'm Pranjal Singh</h1>
 <h3 align="center">Just a 15yr old kid trying to build some roms and contribute to the community. Nothing Much</h3>
 
